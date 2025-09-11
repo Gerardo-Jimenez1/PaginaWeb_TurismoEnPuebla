@@ -1,4 +1,4 @@
-# 🌍 Sitio web turístico sobre el Estado de Puebla  [![Licencia](https://img.shields.io/badge/Licencia-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html) 
+# 🌍 Sitio web sobre turismo el Estado de Puebla  [![Licencia](https://img.shields.io/badge/Licencia-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html) 
 Este proyecto consiste en una página web desarrollada con HTML5, CSS3 y JavaScript, diseñada para promocionar los principales destinos turísticos del Estado de Puebla. Su objetivo es brindar una experiencia visual clara y organizada que incentive a los visitantes a conocer las diferentes regiones del estado, destacando su riqueza cultural, histórica y natural. El sitio presenta secciones informativas acompañadas de imágenes, organizadas por zonas geográficas o tipo de atractivo turístico, permitiendo una navegación sencilla e intuitiva.
 
 ---
