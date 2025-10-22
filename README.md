@@ -12,7 +12,7 @@ Este proyecto consiste en una página web desarrollada con HTML5, CSS3 y JavaScr
 ## 📜 Licencia 
 
 Este proyecto está licenciado bajo la **GNU General Public License v3.0 (GPLv3)**.  
-- Puedes usarlo y ejecutarlo localmente sin restricciones.
+- Puedes usarlo y ejecutarlo localmente.
 - Si lo redistribuyes o publicas derivados, debes mantener la **GPLv3** y publicar el código fuente correspondiente, incluyendo modificaciones.
 - Se conservan los avisos de copyright y la autoría original.
 
